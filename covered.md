@@ -1,3 +1,4 @@
 # Covered cases
 2026-09-14 | Southwest Airlines | Exploited a CAB regulatory loophole (intrastate-only flights) to escape fare regulation, then built a low-cost operating system (10-minute turns, single aircraft type, no frills) that incumbents' labor and network commitments made nearly impossible to copy.
 2026-09-15 | IKEA | Swedish furniture cartel boycotted IKEA out of trade fairs in 1955, so it cut out wholesalers/retailers with direct catalog sales + flat-pack self-assembly and sourced from communist Poland in 1961 — moves incumbents locked into the guild network couldn't make.
+2026-09-16 | Dell Computer | Founded 1984, sold direct + build-to-order with a negative cash conversion cycle (4-5 days inventory, 45-60 day supplier terms) that IBM/Compaq couldn't copy without blowing up their reseller channels; direct-model edge later eroded and Dell returned to retail in 2007, went private in 2013.
