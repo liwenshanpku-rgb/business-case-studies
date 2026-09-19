@@ -4,3 +4,4 @@
 2026-09-16 | Dell Computer | Founded 1984, sold direct + build-to-order with a negative cash conversion cycle (4-5 days inventory, 45-60 day supplier terms) that IBM/Compaq couldn't copy without blowing up their reseller channels; direct-model edge later eroded and Dell returned to retail in 2007, went private in 2013.
 2026-09-17 | Vanguard | Founded 1975 by John Bogle as a mutual-ownership fund company (owned by its own funds' investors, run "at cost") whose expense ratios fell from 0.68% to 0.06%; for-profit rivals couldn't copy without giving up their own profit spread — moat later narrowed when Fidelity launched zero-fee funds in 2018.
 2026-09-18 | Amul (印度奶农合作社) | 1946年凯拉农民用15天"牛奶罢工"逼退博尔森乳品的垄断收购权，建立农民自有的三级合作社结构，把七八成终端零售价返还给供奶农民，私营乳企的股东利润结构使其无法对称复制。
+2026-09-19 | Craigslist | 1995年从一份邮件列表起步，靠"分类信息全免费+双边网络效应"抢走报纸最赚钱的分类广告业务；报纸不是技术跟不上，是不敢自损30%+利润的现金牛，后来craigslist自己也被Facebook Marketplace等新一代免费模式反超。
