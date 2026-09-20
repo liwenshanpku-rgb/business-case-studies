@@ -5,3 +5,4 @@
 2026-09-17 | Vanguard | Founded 1975 by John Bogle as a mutual-ownership fund company (owned by its own funds' investors, run "at cost") whose expense ratios fell from 0.68% to 0.06%; for-profit rivals couldn't copy without giving up their own profit spread — moat later narrowed when Fidelity launched zero-fee funds in 2018.
 2026-09-18 | Amul (印度奶农合作社) | 1946年凯拉农民用15天"牛奶罢工"逼退博尔森乳品的垄断收购权，建立农民自有的三级合作社结构，把七八成终端零售价返还给供奶农民，私营乳企的股东利润结构使其无法对称复制。
 2026-09-19 | Craigslist | 1995年从一份邮件列表起步，靠"分类信息全免费+双边网络效应"抢走报纸最赚钱的分类广告业务；报纸不是技术跟不上，是不敢自损30%+利润的现金牛，后来craigslist自己也被Facebook Marketplace等新一代免费模式反超。
+2026-09-20 | Enterprise Rent-A-Car | 1957年杰克·泰勒不去机场、专开社区网点，靠"保险代步车"这个被忽视的细分市场和维修厂/理赔员转介渠道起家；Hertz/Avis的资产、组织、品牌全锁死在机场场景，学不来这套地推打法，Enterprise反而在2007年收购National/Alamo反攻机场市场。
